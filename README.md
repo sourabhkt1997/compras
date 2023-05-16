@@ -1,6 +1,6 @@
 # haloed-haircut-8824
 
-Burberry is a luxury fashion brand that was founded in 1856 by Thomas Burberry. The brand is well-known for its distinctive trench coats, iconic check pattern, and high-quality craftsmanship. The Burberry website serves as an online platform for customers to explore and purchase a wide range of Burberry products, including clothing, accessories, fragrances, and cosmetics.
+Burberry clone (Compras) is a luxury fashion brand that was founded in 1856 by Thomas Burberry. The brand is well-known for its distinctive trench coats, iconic check pattern, and high-quality craftsmanship. The Burberry website serves as an online platform for customers to explore and purchase a wide range of Burberry products, including clothing, accessories, fragrances, and cosmetics.
 
 ![Screenshot (33)](https://github.com/sourabhkt1997/haloed-haircut-8824/assets/115461797/73877e3c-aae0-483d-8d0c-f1f50963d86b)
 ![Screenshot (34)](https://github.com/sourabhkt1997/haloed-haircut-8824/assets/115461797/7f169702-d037-4b2a-a9d5-57bd6d5b54ad)
@@ -18,7 +18,7 @@ pages
 6 payment page,
 7 admin page,
 
-TeCH Stack - HTML | CSS | JAVASCRIPT | NODE JS | EXPRESS JS | MONGO DB
+Tech Stack - HTML | CSS | JAVASCRIPT | NODE JS | EXPRESS JS | MONGO DB
 
 ![Screenshot (36)](https://github.com/sourabhkt1997/haloed-haircut-8824/assets/115461797/67b62065-babd-487c-a1b5-0a03bc0136ee)
 
